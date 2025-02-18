@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="50" viewBox="0 0 92 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_352" data-name="Rectangle 352" width="41.968" height="41.971" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientTransform="matrix(1, 0, 0, -5.998, 0, 6.152)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffcb7e"/>
+      <stop offset="0.261" stop-color="#fbc87c"/>
+      <stop offset="0.482" stop-color="#f1c077"/>
+      <stop offset="0.688" stop-color="#dfb26e"/>
+      <stop offset="0.884" stop-color="#c79e62"/>
+      <stop offset="1" stop-color="#b59059"/>
+    </radialGradient>
+    <clipPath id="clip-path-2">
+      <path id="Path_226" data-name="Path 226" d="M2.077,2.077H42.924V42.924H2.076ZM0,0,0,45H45V0Z" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.354" gradientTransform="matrix(1, 0, 0, -1, 0, 1.707)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8c6239"/>
+      <stop offset="0.005" stop-color="#8c6239"/>
+      <stop offset="0.481" stop-color="#895f36"/>
+      <stop offset="0.786" stop-color="#80572e"/>
+      <stop offset="1" stop-color="#754c24"/>
+    </radialGradient>
+    <clipPath id="clip-path-3">
+      <path id="Path_227" data-name="Path 227" d="M38.841,3.391V38.841l-35.451,0,0-35.453Zm.623-.622H2.768v36.7h36.7Z" transform="translate(-2.768 -2.768)" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-3" cx="0.5" r="0.354" gradientTransform="matrix(1, 0, 0, -1, 0, 1.867)" xlink:href="#radial-gradient-2"/>
+    <clipPath id="clip-path-4">
+      <path id="Path_228" data-name="Path 228" d="M21.476,4.645C20.7,5.42,19.821,6.895,19.11,7.8c-.336.48-.508.718-.344,1.1a2.818,2.818,0,0,0,1.224,1.371c.223-.07.669-.208.892-.278.941-.667,1.042-1.444,1.5-2.278.273-.274.666.114.384.9a3.489,3.489,0,0,1-1.473,2.025c-.646.39-1.527,1.029-1,1.846.474.879,1.9.555,2.616.093.492-.352,1.729-.915,2.071-.244-.574,2.508-1.681,5.595-1.305,8.383.027.576.008.979-.636.669a23.146,23.146,0,0,0-3.355-1.215A29.609,29.609,0,0,0,6.2,19.913c-.552.135-.7.3-.741.675a85.358,85.358,0,0,0-.631,10.723c.053,1.1.06.8.9,1.374a20.686,20.686,0,0,0,2.314,1.188c7.154,3.246,15.048,2.541,22.158-.651a5.659,5.659,0,0,1,1.161-.039c1,.027,2.166.056,2.774-.8.912-1.14.262-2.937.487-4.214.449-2.532,1.509-4.105-.181-7.264-.225-.4-.511-.868-.762-1.254l-.089-.137C31.9,15.788,29.813,10.1,29.358,6.254a1.08,1.08,0,0,0-1.143-.966,34.149,34.149,0,0,1-5.884-.738,3.7,3.7,0,0,0-.431-.045.625.625,0,0,0-.424.14" transform="translate(-4.817 -4.505)" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-4" cx="0.489" cy="0.483" r="0.476" gradientTransform="matrix(1.039, 0, 0, -1, 0.009, 2.345)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#914918"/>
+      <stop offset="0.005" stop-color="#914918"/>
+      <stop offset="0.389" stop-color="#8e4716"/>
+      <stop offset="0.636" stop-color="#854311"/>
+      <stop offset="0.844" stop-color="#763b09"/>
+      <stop offset="1" stop-color="#630"/>
+    </radialGradient>
+  </defs>
+  <g id="strength" transform="translate(-758 -402.5)">
+    <text id="SIŁA" transform="translate(811 423.5)" fill="#fff" font-size="20" font-family="Hobeaux-Regular, Hobeaux"><tspan x="0" y="0">SIŁA</tspan></text>
+    <text id="_60" data-name="60" transform="translate(811 448.5)" fill="#ecbc76" font-size="20" font-family="Hobeaux-Regular, Hobeaux"><tspan x="0" y="0">60</tspan></text>
+    <g id="Group_709" data-name="Group 709" transform="translate(758 405.5)">
+      <g id="Group_702" data-name="Group 702" transform="translate(1.516 1.515)">
+        <g id="Group_701" data-name="Group 701" clip-path="url(#clip-path)">
+          <rect id="Rectangle_351" data-name="Rectangle 351" width="59.356" height="59.356" transform="translate(-20.986 20.986) rotate(-45)" fill="url(#radial-gradient)"/>
+        </g>
+      </g>
+      <g id="Group_704" data-name="Group 704">
+        <g id="Group_703" data-name="Group 703" clip-path="url(#clip-path-2)">
+          <rect id="Rectangle_353" data-name="Rectangle 353" width="63.64" height="63.64" transform="translate(-22.5 22.5) rotate(-45)" fill="url(#radial-gradient-2)"/>
+        </g>
+      </g>
+      <g id="Group_706" data-name="Group 706" transform="translate(4.152 4.152)">
+        <g id="Group_705" data-name="Group 705" clip-path="url(#clip-path-3)">
+          <rect id="Rectangle_354" data-name="Rectangle 354" width="51.897" height="51.897" transform="translate(-18.349 18.349) rotate(-45)" fill="url(#radial-gradient-3)"/>
+        </g>
+      </g>
+      <g id="Group_708" data-name="Group 708" transform="translate(7.226 6.758)">
+        <g id="Group_707" data-name="Group 707" clip-path="url(#clip-path-4)">
+          <rect id="Rectangle_355" data-name="Rectangle 355" width="31.385" height="32.615" transform="translate(-0.07 0)" fill="url(#radial-gradient-4)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

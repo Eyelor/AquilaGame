@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 653ac287ef32f5f4585ff78a7d3f681a, type: 3}
+  m_Name: SmallMuddIsland
+  m_EditorClassIdentifier: 
+  objectPrefab: {fileID: 5307468743586831828, guid: 5c5e40a06b94b3f45b3c892e26a62177,
+    type: 3}
+  minNumberOfObjects: 4
+  maxNumberOfObjects: 12
+  objectSpacing: 200
+  height: 17.2

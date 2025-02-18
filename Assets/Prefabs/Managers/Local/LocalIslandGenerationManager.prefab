@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2647277673286466645
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2993876452042966908}
+  - component: {fileID: 1563941426377295815}
+  m_Layer: 0
+  m_Name: LocalIslandGenerationManager
+  m_TagString: generator
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2993876452042966908
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2647277673286466645}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1563941426377295815
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2647277673286466645}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d7e5ee0d262bae48a64f2bc1b73fea6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectsToGenerate: []
+  objectsParent: {fileID: 0}
+  mobsToGenerate: []
+  mobsParent: {fileID: 0}
+  terrain: {fileID: 0}
+  heightMargin: 5
+  outBorder: 25
+  excessLand: 250
+  addHeight: 7
+  howManyToRemove: 10
+  pathLayer: {fileID: 0}
+  pathWidth: 3
+  pathHeightOutOfBorder: 12
+  playerTransform: {fileID: 0}
+  signpostTransform: {fileID: 0}
+  branchGenerationParametersList: {fileID: 0}
+  localMapPrefabRegistry: {fileID: 11400000, guid: 0689c04001fe9eb469a1cfaea9822b95,
+    type: 2}
+  objectsPoolSO: {fileID: 11400000, guid: 90f2b0076256bf246b2cdf39731c0d38, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 116849790b1c33c418e5faca94aa241e, type: 3}
+  m_Name: BigGreenPiratLocalMobGenerationParameters
+  m_EditorClassIdentifier: 
+  mobPrefab: {fileID: 8150718175590254582, guid: 8a873b46381c4e7419aaa3163e8c47d4,
+    type: 3}
+  minNumberOfMobs: 125
+  maxNumberOfMobs: 175
+  mobSpacing: 5
+  maxSlope: 20
+  affiliation: 1

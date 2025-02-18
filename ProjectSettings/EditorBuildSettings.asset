@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/Premenu.unity
+    guid: 50ba8714bb00ccc4ea69312bce02901b
+  - enabled: 1
+    path: Assets/Scenes/GlobalMap.unity
+    guid: 2332d0ab63e7de34ea306cfb73c3dca1
+  - enabled: 1
+    path: Assets/Scenes/Port.unity
+    guid: 1376b9d5820ba634abf86e607e08f801
+  - enabled: 1
+    path: Assets/Scenes/BigIsland/BigIslandGrass.unity
+    guid: bd10c04ac6b633a47b97bf29bcdd1339
+  - enabled: 1
+    path: Assets/Scenes/BigIsland/BigIslandMudd.unity
+    guid: 2b4425adfff2c864da6fdb8639f413d9
+  - enabled: 1
+    path: Assets/Scenes/BigIsland/BigIslandSand.unity
+    guid: 2ac07cf800c697a48a4d1e1100c01fef
+  - enabled: 1
+    path: Assets/Scenes/MiddleIsland/MiddleIslandGrass.unity
+    guid: 7509e7c902c71804489eb4443c522aab
+  - enabled: 1
+    path: Assets/Scenes/MiddleIsland/MiddleIslandMudd.unity
+    guid: 80e267b41daff304bb1f1b2771951af6
+  - enabled: 1
+    path: Assets/Scenes/MiddleIsland/MiddleIslandSand.unity
+    guid: b3cbaa050ff34244a93ad2f827e608c3
+  - enabled: 1
+    path: Assets/Scenes/SmallIsland/SmallIslandGrass.unity
+    guid: 2a374e0ba2d41ae42bb3179fdf56c6b8
+  - enabled: 1
+    path: Assets/Scenes/SmallIsland/SmallIslandMudd.unity
+    guid: 288926553227b0245bd086f7cb1d6cd7
+  - enabled: 1
+    path: Assets/Scenes/SmallIsland/SmallIslandSand.unity
+    guid: 1dd780e347416664a8610e346a1d19fa
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/MainMenu.unity
+    guid: 94531e2d52be2d647a9bdfb7e8b0b220
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/GameCreators.unity
+    guid: 4083693362652444fb7689cdb872f425
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/Settings.unity
+    guid: 5ad1c8daa21502d4db0c24cf8d315674
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/LoadGame.unity
+    guid: 2dd2b01c36640794ea5694cfe277f3d6
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/LoadingPanel.unity
+    guid: b3a97abf8bbe50a4ea4990e1f99359d8
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/Settings/Volume.unity
+    guid: e1fa269e3a48bb948b71661e0594fe20
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/Settings/Language.unity
+    guid: 7396dcb1e5a679d4c81234f095f1f10b
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/Settings/Graphics.unity
+    guid: 17edb887bb28acf4cae32d73860cefde
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/Settings/Display.unity
+    guid: 6df8fbda885e9414cbbeef8b6d6cedfe
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/Settings/Control.unity
+    guid: 494d169ed6f42da479285467973b1fa4
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/Settings/Keys.unity
+    guid: c386a9cff4f9e3d48a1826c01d1748a0
+  m_configObjects: {}

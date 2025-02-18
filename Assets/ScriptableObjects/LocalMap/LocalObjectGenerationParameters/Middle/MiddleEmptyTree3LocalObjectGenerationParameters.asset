@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0cef1a2133bb94fae72411082df117, type: 3}
+  m_Name: MiddleEmptyTree3LocalObjectGenerationParameters
+  m_EditorClassIdentifier: 
+  objectPrefab: {fileID: 2015540011793530634, guid: e4e2bcd200b26c94cb8b5a4e866a0059,
+    type: 3}
+  minNumberOfObjects: 3750
+  maxNumberOfObjects: 4500
+  objectSpacing: 5
+  maxSlope: 12
+  isInteractable: 0

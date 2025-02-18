@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0cef1a2133bb94fae72411082df117, type: 3}
+  m_Name: MiddleRock1MuddLocalObjectGenerationParameters
+  m_EditorClassIdentifier: 
+  objectPrefab: {fileID: 458056270184575653, guid: 619f656492b475949bcd2c2e4ea768d7,
+    type: 3}
+  minNumberOfObjects: 300
+  maxNumberOfObjects: 450
+  objectSpacing: 10
+  maxSlope: 15
+  isInteractable: 0

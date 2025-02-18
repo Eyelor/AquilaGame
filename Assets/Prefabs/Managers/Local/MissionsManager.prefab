@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2739529183940821539
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3490286275949264531}
+  - component: {fileID: 3098087742800583621}
+  m_Layer: 0
+  m_Name: MissionsManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3490286275949264531
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2739529183940821539}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3098087742800583621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2739529183940821539}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46aea8be9ebc81f4b834679ea0d729aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  exploreMissionName: {fileID: 0}
+  exploreMissionObjective1ProgressValue: {fileID: 0}
+  exploreMissionObjective1Slash: {fileID: 0}
+  exploreMissionObjective1ObjectiveValue: {fileID: 0}
+  exploreMissionObjective1InProgress: {fileID: 0}
+  exploreMissionObjective1Completed: {fileID: 0}
+  fightMissionName: {fileID: 0}
+  fightMissionObjective1Name: {fileID: 0}
+  fightMissionObjective1ProgressValue: {fileID: 0}
+  fightMissionObjective1Slash: {fileID: 0}
+  fightMissionObjective1ObjectiveValue: {fileID: 0}
+  fightMissionObjective1InProgress: {fileID: 0}
+  fightMissionObjective1Completed: {fileID: 0}
+  fightMissionObjective2Name: {fileID: 0}
+  fightMissionObjective2ProgressValue: {fileID: 0}
+  fightMissionObjective2Slash: {fileID: 0}
+  fightMissionObjective2ObjectiveValue: {fileID: 0}
+  fightMissionObjective2InProgress: {fileID: 0}
+  fightMissionObjective2Completed: {fileID: 0}
+  greenColor: {r: 0, g: 0.7921569, b: 0.10980392, a: 1}

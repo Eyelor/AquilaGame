@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="185" height="50" viewBox="0 0 185 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_421" data-name="Rectangle 421" width="8.485" height="8.485" transform="translate(2 8) rotate(-45)" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientTransform="matrix(1, 0, 0, -1, 0, 2.333)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffcb7e"/>
+      <stop offset="0.261" stop-color="#fbc87c"/>
+      <stop offset="0.482" stop-color="#f1c077"/>
+      <stop offset="0.688" stop-color="#dfb26e"/>
+      <stop offset="0.884" stop-color="#c79e62"/>
+      <stop offset="1" stop-color="#b59059"/>
+    </radialGradient>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_422" data-name="Rectangle 422" width="16" height="16" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.539" gradientTransform="matrix(1, 0, 0, -0.7, 0, 1.767)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#914918"/>
+      <stop offset="0.005" stop-color="#914918"/>
+      <stop offset="0.389" stop-color="#8e4716"/>
+      <stop offset="0.636" stop-color="#854311"/>
+      <stop offset="0.844" stop-color="#763b09"/>
+      <stop offset="1" stop-color="#630"/>
+    </radialGradient>
+  </defs>
+  <g id="visitedIslands" transform="translate(-774 -569.5)">
+    <text id="ODWIEDZONE_WYSPY" data-name="ODWIEDZONE WYSPY" transform="translate(774 590.5)" fill="#fff" font-size="20" font-family="Hobeaux-Regular, Hobeaux"><tspan x="0" y="0">ODWIEDZONE WYSPY</tspan></text>
+    <text id="_10" data-name="10" transform="translate(857 615.5)" fill="#ecbc76" font-size="20" font-family="Hobeaux-Regular, Hobeaux"><tspan x="0" y="0">10</tspan></text>
+    <g id="decoration" transform="translate(839 599.5)">
+      <g id="Group_833" data-name="Group 833">
+        <g id="Group_832" data-name="Group 832" clip-path="url(#clip-path)">
+          <rect id="Rectangle_420" data-name="Rectangle 420" width="12" height="12" transform="translate(2 2)" fill="url(#radial-gradient)"/>
+        </g>
+      </g>
+      <g id="Group_835" data-name="Group 835">
+        <g id="Group_834" data-name="Group 834" clip-path="url(#clip-path-2)">
+          <path id="Path_263" data-name="Path 263" d="M8,2l.707-.707L15.415,8,8,15.414.586,8,8,.586l.707.707L8,2l.707.707L3.415,8,8,12.586,12.586,8,7.293,2.707,8,2l.707.707Z" fill="url(#radial-gradient-2)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_841" data-name="Group 841" transform="translate(878 599.5)">
+      <g id="Group_838" data-name="Group 838">
+        <g id="Group_837" data-name="Group 837" clip-path="url(#clip-path)">
+          <rect id="Rectangle_423" data-name="Rectangle 423" width="12" height="12" transform="translate(2 2)" fill="url(#radial-gradient)"/>
+        </g>
+      </g>
+      <g id="Group_840" data-name="Group 840">
+        <g id="Group_839" data-name="Group 839" clip-path="url(#clip-path-2)">
+          <path id="Path_264" data-name="Path 264" d="M8,2l.707-.707L15.415,8,8,15.414.586,8,8,.586l.707.707L8,2l.707.707L3.415,8,8,12.586,12.586,8,7.293,2.707,8,2l.707.707Z" fill="url(#radial-gradient-2)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
