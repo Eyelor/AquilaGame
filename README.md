@@ -5,7 +5,7 @@
       Paweł Pieczykolan
       Marek Prokopiuk
 ---
-### Instrukcja uruchomienia projektu pracy
+### Instrukcja uruchomienia projektu gry
 
 1. Należy pobrać Unity Hub ze strony https://unity.com/download
 2. Po pobraniu uruchomić Unity Hub
@@ -16,7 +16,7 @@
 7. Po znalezieniu wersji edytora Unity 2022.3.33f1, należy w kolumnie "Hub installation" kliknąć "INSTALL"
 8. Otworzy się okienko w przeglądarce z pytaniem "Otworzyć Unity Hub?", należy wtedy kliknąć "Otwórz Unity Hub" i powinno uruchomić się Unity Hub
 9. W Unity Hub otworzy się okno instalacji wybranej wersji edytora Unity, należy wtedy klikąć "Install"
-10. Po zainstalowaniu należy przenieść folder z projektem pracy o nazwie "Projekt Pracy" na dysk komputera (wymagane jest 10 GB wolnego miejsca)
+10. Po zainstalowaniu należy przenieść folder z projektem z tego repozytorium na dysk komputera (wymagane jest 10 GB wolnego miejsca)
 11. Następnie w zakładce "Projects" programu Unity Hub rozwinąć przycisk "Add", który jest w prawym górnym rogu i wybrać opcję "Add project from disk"
 12. Potem należy wybrać lokalizację folderu z plikami projektu, który został utworzony w punkcie 10
 13. W zakładce "Projects" pojawi się nowy projekt o nazwie wybranego folderu, należy wtedy wybrać odpowiednią wersję edytora Unity (2022.3.33f1) i uruchomić projekt
@@ -40,7 +40,7 @@
   - <p align="justify">Substance Painter – Oprogramowanie przeznaczone do teksturowania modeli 3D</p>
   - <p align="justify">Adobe XD – Narzędzie projektowe użyte do zaprojektowania wszystkich interfejsów menu, rozgrywki i gracza</p>
   - <p align="justify">JSON – Lekki format danych wykorzystany do zrealizowania mechanizmów zapisywania i wczytywania gry, czyli przechowywania informacji między innymi o wygenerowanych wyspach, obiektach i zdobytych przez gracza statystykach</p>
-  - <p align="justify">Plastic SCM – System kontroli wersji wykorzytany w pracy do skutecznego zarządzania wersjami projektu głównego w silniku Unity</p>
+  - <p align="justify">Plastic SCM – System kontroli wersji wykorzytany w projekcie do skutecznego zarządzania wersjami projektu głównego w silniku Unity</p>
   
 <p align="justify">Wszystkie elementy wykorzystane w grze, takie jak obiekty, interfejsy, czy muzyka, są stworzone samodzielnie od podstaw przez autorów projektu. Do najważniejszych autorskich obiektów zaliczają się postać gracza, statek, przeciwnicy, szabla, miniatury wysp oraz obiekty generowane na grywalnych scenach wysp, czyli między innymi drzewa, palmy, krzaki, kaktusy, skały, beczki, czy skrzynie.</p>
 
