@@ -45,7 +45,7 @@
 <p align="justify">Wszystkie elementy wykorzystane w grze, takie jak obiekty, interfejsy, czy muzyka, są stworzone samodzielnie od podstaw przez autorów projektu. Do najważniejszych autorskich obiektów zaliczają się postać gracza, statek, przeciwnicy, szabla, miniatury wysp oraz obiekty generowane na grywalnych scenach wysp, czyli między innymi drzewa, palmy, krzaki, kaktusy, skały, beczki, czy skrzynie.</p>
 
 <p align="center">
-  <img src="https://github.com/AquilaProjectTeam/AquilaGame/blob/main/Graphics/AutorskieObiekty.png" style="width: 90%; height: 90%" /></p>
+  <img src="./Graphics/AutorskieObiekty.png" style="width: 90%; height: 90%" /></p>
 <p align="center">
   <i>Rys. 1. Autorskie obiekty generowane na wyspach</i>
 </p>
@@ -55,13 +55,13 @@
 <p align="justify">Gracz porusza się po oceanie statkiem. Interfejs na tej scenie zawiera minimapę, z widoczną ikonką gracza, a także informacje dotyczące interakcji z miniwyspą, które pojawiają się, gdy gracz podpłynie wystarczająco blisko danej wyspy. Informacje te obejmują wielkość, typ oraz przynależność wyspy do frakcji. Po naciśnięciu przycisku interakcji uruchamia się scena odpowiadająca właściwej wyspie.</p>
 
 <p align="center">
-  <img src="https://github.com/AquilaProjectTeam/AquilaGame/blob/main/Graphics/GenerowanieLosoweWyspy.png" style="width: 90%; height: 90%" /></p>
+  <img src="./Graphics/GenerowanieLosoweWyspy.png" style="width: 90%; height: 90%" /></p>
 <p align="center">
   <i>Rys. 2. Generowanie losowe - wyspy</i>
 </p><br>
 
 <p align="center">
-  <img src="https://github.com/AquilaProjectTeam/AquilaGame/blob/main/Graphics/RozgrywkaWyspy.png" style="width: 90%; height: 90%" /></p>
+  <img src="./Graphics/RozgrywkaWyspy.png" style="width: 90%; height: 90%" /></p>
 <p align="center">
   <i>Rys. 3. Widok interfejsu gracza na oceanie</i>
 </p>
@@ -71,13 +71,13 @@
 <p align="justify">Obiekty na wyspach generowane są zgodnie z ich typem, czyli np. palmy i kaktusy na piaszczystej, a drzewa i krzaki na trawiastej. Obiekty generują się w odpowiednich odległościach od siebie, a także od ścieżek i innych statycznych elementów wysp. Dostosowują się do nachylenia terenu, ale też nie mogą się wygenerować na terenie nieodpowiednim, czyli o nieprawidłowej wysokości, bądź zbyt dużym nachyleniu. Na mapach generują się również przeciwnicy w zależności od frakcji. Poruszają się oni w losowych kierunkach, omijają przeszkody, a gdy wykryją gracza wystarczająco blisko siebie, zaczynają go gonić, a następnie atakować. Każdy przeciwnik ma losowe statystyki generowane z zakresu przygotowanego na podstawie aktualnych statystyk gracza w taki sposób, że powstało sześć poziomów trudności przeciwników (Na Rys. 5. widoczny jest pirat o najtrudniejszym poziomie trudności co dodatkowo oznaczono odpowiednią ikoną).</p>
 
 <p align="center">
-  <img src="https://github.com/AquilaProjectTeam/AquilaGame/blob/main/Graphics/GenerowanieLosoweŚcieżka.png" style="width: 90%; height: 90%" /></p>
+  <img src="./Graphics/GenerowanieLosoweŚcieżka.png" style="width: 90%; height: 90%" /></p>
 <p align="center">
   <i>Rys. 4. Generowanie losowe - ścieżka</i>
 </p><br>
 
 <p align="center">
-  <img src="https://github.com/AquilaProjectTeam/AquilaGame/blob/main/Graphics/GenerowanieLosoweObiekty.png" style="width: 90%; height: 90%" /></p>
+  <img src="./Graphics/GenerowanieLosoweObiekty.png" style="width: 90%; height: 90%" /></p>
 <p align="center">
   <i>Rys. 5. Generowanie losowe - obiekty i przeciwnicy</i>
 </p>
@@ -85,7 +85,7 @@
 <p align="justify">Gracz po wyspach porusza się postacią pirata. Interfejs na tych scenach zawiera minimapę, na której widoczna jest zarówno ikonka gracza, jak i ikonki najbliższych przeciwników. Dostępne jest menu akcji z widocznym poziomem gracza, paskiem doświadczenia oraz zdrowia, a także akcjami szybkiego dostępu np. akcja wyciągnięcia szabli. Gracz może zdobywać doświadczenie poprzez odwiedzanie nowych wysp, otwieranie skrzyń, pokonywanie przeciwników oraz wykonywanie losowo generowanych misji pobocznych, które są wyświetlane pod minimapą. Zadania dotyczą znajdowania skrzyń oraz pokonywania przeciwników o określonych poziomach trudności w zależności od wylosowanego poziomu misji. Obrażenia zadawane i przyjmowane przez gracza są wyświetlane podczas walki, tak samo, jak i informacje o ewentualnym nietrafieniu.</p>
 
 <p align="center">
-  <img src="https://github.com/AquilaProjectTeam/AquilaGame/blob/main/Graphics/RozgrywkaWalka.png" style="width: 90%; height: 90%" /></p>
+  <img src="./Graphics/RozgrywkaWalka.png" style="width: 90%; height: 90%" /></p>
 <p align="center">
   <i>Rys. 6. Widok interfejsu i walki na scenach wysp</i>
 </p>
@@ -95,13 +95,13 @@
 <p align="justify">W menu głównym możliwe jest uruchomienie nowej gry, kontynuowanie rozgrywki od ostatniego zapisu, wczytanie dowolnego zapisu gry, wyjście z gry, a także przejście do menu opcji. Dostępne są ustawienia sterowania, grafiki, wyświetlacza, dźwięku, oraz języka, a z opcji sterowania dodatkowo można przejść do panelu edycji klawiszy. Gracz może edytować domyślnie przypisane ustawienia wedle własnych preferencji.</p>
 
 <p align="center">
-  <img src="https://github.com/AquilaProjectTeam/AquilaGame/blob/main/Graphics/RozgrywkaEkwipunek.png" style="width: 90%; height: 90%" /></p>
+  <img src="./Graphics/RozgrywkaEkwipunek.png" style="width: 90%; height: 90%" /></p>
 <p align="center">
   <i>Rys. 7. Widok ekwipunku</i>
 </p><br>
 
 <p align="center">
-  <img src="https://github.com/AquilaProjectTeam/AquilaGame/blob/main/Graphics/MenuGłówne.png" style="width: 90%; height: 90%" /></p>
+  <img src="./Graphics/MenuGłówne.png" style="width: 90%; height: 90%" /></p>
 <p align="center">
   <i>Rys. 8. Widok przejścia z menu opcji do panelu edycji klawiszy</i>
 </p>
