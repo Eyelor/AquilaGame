@@ -1,5 +1,5 @@
 # Aquila Game
-<p align="justify">Przedstawiony projekt to gra komputerowa stworzona w ramach realizacji Pracy Inżynierskiej o tytule „Opracowanie gry komputerowej z elementami losowości”. Projekt ten został zrealizowany przez trzech studentów:</p>
+<p align="justify">Przedstawiony projekt to gra komputerowa, której głównym założeniem było wykorzystanie elementów losowości w wielu aspektach rozgrywki. Projekt ten został zrealizowany przez trzech autorów:</p>
      
       Jakub Kopeć
       Paweł Pieczykolan
